@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = 'plaid'
+  s.name        = 'plaid-ruby'
   s.version     = '0.1.2'
   s.date        = '2014-02-19'
   s.summary     = "Plaid.io api gem"
